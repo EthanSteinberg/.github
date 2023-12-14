@@ -9,6 +9,6 @@ Relevant repos:
 
 Tools that are (or will soon be) compatible with MEDS (ordered alphabetically):
   * ESGPT: https://eventstreamml.readthedocs.io/en/latest/
-  * FEMR:
+  * FEMR: https://github.com/som-shahlab/femr
   * GenHPF:
   * YAIB: 
